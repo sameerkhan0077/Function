@@ -1,9 +1,10 @@
 
   1. Count number of words in a Text after splitting it by any word
+ ```
     let word = "Hello Wecode Acacdemy";
     let wordSplit =word.split(" ");
     console.log(wordSplit,wordSplit.length);
- 
+ ```
 
 
  2. Convert odd position word to lowercase and even position word to uppercase
